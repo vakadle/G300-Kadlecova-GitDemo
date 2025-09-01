@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# macOS system files
+.DS_Store
+
+# Unreal Engine intermediate files
+DerivedDataCache/
+Intermediate/
+Saved/
